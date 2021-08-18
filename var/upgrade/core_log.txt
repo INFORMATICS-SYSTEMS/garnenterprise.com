@@ -1,0 +1,65 @@
+2021-08-07 09:36:03: Downloading "core" upgrade package
+2021-08-07 09:36:05: Upgrade package has been downloaded and ready to install
+
+
+################################################################################
+################################################################################
+2021-08-07 09:36:18: Starting installation of the "core" upgrade package
+2021-08-07 09:36:18: Upgrading version 4.13.2.SP1 to 4.13.2.SP2
+2021-08-07 09:36:18: Running as user "garnenterprise"
+2021-08-07 09:36:18: Storing entry point files permissions...
+2021-08-07 09:36:18: index.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:36:18: admin.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:36:18: api.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:36:18: vendor.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:36:18:  ==> 16872 (drwxr-x---)
+2021-08-07 09:36:18: Executing pre-upgrade validators
+2021-08-07 09:36:18: Found 0 validators at package
+2021-08-07 09:36:18: Executing "collisions" validator
+2021-08-07 09:36:18: Executing "permissions" validator
+2021-08-07 09:36:18: Executing "restore" validator
+2021-08-07 09:36:18: Files and database backup skipped
+2021-08-07 09:36:18: Executing pre-upgrade script "/var/www/vhosts/garnenterprise.com/httpdocs/var/upgrade/packages/core/content/scripts/pre_script.php"
+2021-08-07 09:36:19: Pre-upgrade script executed successfully
+2021-08-07 09:36:19: Closing storefront
+2021-08-07 09:36:19: Sending upgrade information e-mail to: informatics.sys@gmail.com
+2021-08-07 09:36:19: E-mail was successfully sent
+2021-08-07 09:36:19: No migrations found at package
+2021-08-07 09:36:19: Copying package files
+2021-08-07 09:36:19: Deleting files removed at new version
+2021-08-07 09:36:19: Processing themes files
+2021-08-07 09:36:19: Installing languages using upgraded *.po files
+2021-08-07 09:36:19: Already installed languages: en
+2021-08-07 09:36:19: Languages to be installed: 
+2021-08-07 09:36:19: Installing "en" language... SKIPPED
+2021-08-07 09:36:19: Cleaning cache
+2021-08-07 09:36:19: Saving upgrade information to DB
+2021-08-07 09:36:19: Sending statistics
+2021-08-07 09:36:20: Deleting package contents
+2021-08-07 09:36:21: Restoring entry point files permissions...
+2021-08-07 09:36:21: index.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:36:21: ----------
+2021-08-07 09:36:21: Changing permissions of "/var/www/vhosts/garnenterprise.com/httpdocs/index.php" to 100644
+2021-08-07 09:36:21: Using chmod()... OK
+2021-08-07 09:36:21: ----------
+2021-08-07 09:36:21: admin.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:36:21: ----------
+2021-08-07 09:36:21: Changing permissions of "/var/www/vhosts/garnenterprise.com/httpdocs/admin.php" to 100644
+2021-08-07 09:36:21: Using chmod()... OK
+2021-08-07 09:36:21: ----------
+2021-08-07 09:36:21: api.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:36:21: ----------
+2021-08-07 09:36:21: Changing permissions of "/var/www/vhosts/garnenterprise.com/httpdocs/api.php" to 100644
+2021-08-07 09:36:21: Using chmod()... OK
+2021-08-07 09:36:21: ----------
+2021-08-07 09:36:21: vendor.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:36:21: ----------
+2021-08-07 09:36:21: Changing permissions of "/var/www/vhosts/garnenterprise.com/httpdocs/vendor.php" to 100644
+2021-08-07 09:36:21: Using chmod()... OK
+2021-08-07 09:36:21: ----------
+2021-08-07 09:36:21:  ==> 16872 (drwxr-x---)
+2021-08-07 09:36:21: ----------
+2021-08-07 09:36:21: Changing permissions of "/var/www/vhosts/garnenterprise.com/httpdocs/" to 40750
+2021-08-07 09:36:21: Using chmod()... OK
+2021-08-07 09:36:21: ----------
+2021-08-07 09:36:21: Upgrade completed!

@@ -1,0 +1,291 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:1767:"<script>
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_140');
+
+        var item = 5,
+            itemsDesktop = 3,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+                function outsideNav () {
+            if(this.options.items >= this.itemsAmount){
+                $("#owl_outside_nav_140").hide();
+            } else {
+                $("#owl_outside_nav_140").show();
+            }
+        }
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: [1199, itemsDesktop],
+                itemsDesktopSmall: [979, itemsDesktopSmall],
+                itemsTablet: [768, itemsTablet],
+                itemsMobile: [479, 1],
+                                                autoPlay: false,
+                                slideSpeed: 400,
+                stopOnHover: true,
+                                pagination: false,
+                            afterInit: outsideNav,
+                afterUpdate : outsideNav
+            });
+
+              $('#owl_prev_140000').click(function(){
+                elm.trigger('owl.prev');
+              });
+              $('#owl_next_140000').click(function(){
+                elm.trigger('owl.next');
+              });
+
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:15430:"        <div class="ty-mainbox-container clearfix scroller">
+                    
+                <div class="ty-mainbox-title">
+                    
+                                            Promotions
+                                        
+
+                </div>
+            
+
+                <div class="ty-mainbox-body">
+
+                <div class="owl-theme ty-owl-controls">
+            <div class="owl-controls clickable owl-controls-outside" id="owl_outside_nav_140">
+                <div class="owl-buttons">
+                    <div id="owl_prev_140000" class="owl-prev"><i class="ty-icon-left-open-thin"></i></div>
+                    <div id="owl_next_140000" class="owl-next"><i class="ty-icon-right-open-thin"></i></div>
+                </div>
+            </div>
+        </div>
+        
+    <div class="ab__dotd_promotions scroller">
+        <div id="scroll_list_140" class="owl-carousel ty-scroller-list">
+            	            	                <div class="ab__dotd_promotions-item">
+                        <div class="ab__dotd_promotions-item_image">
+                            <a href="https://garnenterprise.com/ab-stock-buy-a-promotional-hair-dryer-valera-get-a-40-discount-on-the-curling-iron/" title="">
+                                            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/330/200/promotion/8/promotion_main_image-1.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/660/400/promotion/8/promotion_main_image-1.jpg 2x" width="330" height="200" />
+
+
+                            </a>
+                        </div>
+
+                                                                                <div class="ab__dotd_promotions-item_days_left">
+                                                                    <span>3</span> days left
+                                                            </div>
+                        
+                        <div class="ab__dotd_promotions-item_title">
+                            <a href="https://garnenterprise.com/ab-stock-buy-a-promotional-hair-dryer-valera-get-a-40-discount-on-the-curling-iron/" title="">AB: Stock! Buy a promotional hair dryer VALERA - get a 40% discount on the curling iron!</a>
+                            <div class="ab__dotd_promotions-item_date">
+                                                                                                    to 16/08/2021
+                                                            </div>
+                        </div>
+	                </div>
+	                         	            	                <div class="ab__dotd_promotions-item">
+                        <div class="ab__dotd_promotions-item_image">
+                            <a href="https://garnenterprise.com/ab-racing-card-2-year-license-for-races-k1/" title="">
+                                            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/330/200/promotion/8/promotion_main_image-2.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/660/400/promotion/8/promotion_main_image-2.jpg 2x" width="330" height="200" />
+
+
+                            </a>
+                        </div>
+
+                                                                                <div class="ab__dotd_promotions-item_days_left">
+                                                                    <span>3</span> days left
+                                                            </div>
+                        
+                        <div class="ab__dotd_promotions-item_title">
+                            <a href="https://garnenterprise.com/ab-racing-card-2-year-license-for-races-k1/" title="">AB: RACING CARD + 2-YEAR LICENSE FOR RACES K1</a>
+                            <div class="ab__dotd_promotions-item_date">
+                                                                                                    to 16/08/2021
+                                                            </div>
+                        </div>
+	                </div>
+	                         	            	                <div class="ab__dotd_promotions-item">
+                        <div class="ab__dotd_promotions-item_image">
+                            <a href="https://garnenterprise.com/ab-only-today-you-can-buy-a-camera-with-10-discount/" title="">
+                                            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/330/200/promotion/8/promotion_main_image-3.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/660/400/promotion/8/promotion_main_image-3.jpg 2x" width="330" height="200" />
+
+
+                            </a>
+                        </div>
+
+                                                                                <div class="ab__dotd_promotions-item_days_left">
+                                                                    <span>3</span> days left
+                                                            </div>
+                        
+                        <div class="ab__dotd_promotions-item_title">
+                            <a href="https://garnenterprise.com/ab-only-today-you-can-buy-a-camera-with-10-discount/" title="">AB: Only today you can buy a camera with - 10% discount </a>
+                            <div class="ab__dotd_promotions-item_date">
+                                                                                                    to 16/08/2021
+                                                            </div>
+                        </div>
+	                </div>
+	                         	            	                <div class="ab__dotd_promotions-item">
+                        <div class="ab__dotd_promotions-item_image">
+                            <a href="https://garnenterprise.com/ab-free-shipping-for-orders-over-50./" title="">
+                                            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/330/200/promotion/8/promotion_main_image-4.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/660/400/promotion/8/promotion_main_image-4.jpg 2x" width="330" height="200" />
+
+
+                            </a>
+                        </div>
+
+                                                                                <div class="ab__dotd_promotions-item_days_left">
+                                                                    <span>3</span> days left
+                                                            </div>
+                        
+                        <div class="ab__dotd_promotions-item_title">
+                            <a href="https://garnenterprise.com/ab-free-shipping-for-orders-over-50./" title="">AB: Free shipping for orders over $ 50.</a>
+                            <div class="ab__dotd_promotions-item_date">
+                                                                                                    to 16/08/2021
+                                                            </div>
+                        </div>
+	                </div>
+	                         	            	                <div class="ab__dotd_promotions-item">
+                        <div class="ab__dotd_promotions-item_image">
+                            <a href="https://garnenterprise.com/ab-5-discount-for-x-box-one-and-sabertooth-bundle/" title="">
+                                            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/330/200/promotion/8/promotion_main_image-5.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/660/400/promotion/8/promotion_main_image-5.jpg 2x" width="330" height="200" />
+
+
+                            </a>
+                        </div>
+
+                                                                                <div class="ab__dotd_promotions-item_days_left">
+                                                                    <span>3</span> days left
+                                                            </div>
+                        
+                        <div class="ab__dotd_promotions-item_title">
+                            <a href="https://garnenterprise.com/ab-5-discount-for-x-box-one-and-sabertooth-bundle/" title="">AB: 5% discount for X-Box One & Sabertooth bundle</a>
+                            <div class="ab__dotd_promotions-item_date">
+                                                                                                    to 16/08/2021
+                                                            </div>
+                        </div>
+	                </div>
+	                         	            	                <div class="ab__dotd_promotions-item">
+                        <div class="ab__dotd_promotions-item_image">
+                            <a href="https://garnenterprise.com/free-shipping/" title="">
+                                            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/330/200/promotion/8/promotion_free_shipping.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/660/400/promotion/8/promotion_free_shipping.jpg 2x" width="330" height="200" />
+
+
+                            </a>
+                        </div>
+
+                        
+                        <div class="ab__dotd_promotions-item_title">
+                            <a href="https://garnenterprise.com/free-shipping/" title="">Free shipping</a>
+                            <div class="ab__dotd_promotions-item_date">
+                                                                                            </div>
+                        </div>
+	                </div>
+	                         	            	                <div class="ab__dotd_promotions-item">
+                        <div class="ab__dotd_promotions-item_image">
+                            <a href="https://garnenterprise.com/20-discount-coupon/" title="">
+                                            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/330/200/promotion/8/promotion_coupon.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/660/400/promotion/8/promotion_coupon.jpg 2x" width="330" height="200" />
+
+
+                            </a>
+                        </div>
+
+                        
+                        <div class="ab__dotd_promotions-item_title">
+                            <a href="https://garnenterprise.com/20-discount-coupon/" title="">20% discount coupon</a>
+                            <div class="ab__dotd_promotions-item_date">
+                                                                                            </div>
+                        </div>
+	                </div>
+	                         	            	                <div class="ab__dotd_promotions-item">
+                        <div class="ab__dotd_promotions-item_image">
+                            <a href="https://garnenterprise.com/demo-store-discount/" title="">
+                                            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/330/200/promotion/8/promotion_10_for_demo.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/660/400/promotion/8/promotion_10_for_demo.jpg 2x" width="330" height="200" />
+
+
+                            </a>
+                        </div>
+
+                        
+                        <div class="ab__dotd_promotions-item_title">
+                            <a href="https://garnenterprise.com/demo-store-discount/" title="">DEMO Store discount</a>
+                            <div class="ab__dotd_promotions-item_date">
+                                                                                            </div>
+                        </div>
+	                </div>
+	                         	            	                <div class="ab__dotd_promotions-item">
+                        <div class="ab__dotd_promotions-item_image">
+                            <a href="https://garnenterprise.com/discount-on-pick-up/" title="">
+                                            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/330/200/promotion/8/promotion_pickup.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/660/400/promotion/8/promotion_pickup.jpg 2x" width="330" height="200" />
+
+
+                            </a>
+                        </div>
+
+                        
+                        <div class="ab__dotd_promotions-item_title">
+                            <a href="https://garnenterprise.com/discount-on-pick-up/" title="">Discount on pick-up</a>
+                            <div class="ab__dotd_promotions-item_date">
+                                                                                            </div>
+                        </div>
+	                </div>
+	                         	            	                <div class="ab__dotd_promotions-item">
+                        <div class="ab__dotd_promotions-item_image">
+                            <a href="https://garnenterprise.com/x-box-discount/" title="">
+                                            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/330/200/promotion/8/promotion_xbox_one.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/660/400/promotion/8/promotion_xbox_one.jpg 2x" width="330" height="200" />
+
+
+                            </a>
+                        </div>
+
+                        
+                        <div class="ab__dotd_promotions-item_title">
+                            <a href="https://garnenterprise.com/x-box-discount/" title="">X-Box discount</a>
+                            <div class="ab__dotd_promotions-item_date">
+                                                                                            </div>
+                        </div>
+	                </div>
+	                                 </div>
+    
+    
+<!-- Inline script moved to the bottom of the page -->
+
+    <div class="all-promotions__button"><a href="https://garnenterprise.com/promotions/" class="ty-btn ty-btn__primary" title="">All promotions list</a></div>
+    </div>
+
+</div>
+    </div>
+
+";}s:6:"expiry";i:0;}

@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Thai\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: th\n"
+"X-Crowdin-File: /head/addons/bestsellers.po\n"
+"X-Crowdin-File-ID: 110\n"
+"PO-Revision-Date: 2021-08-06 12:02\n"
+
+msgctxt "Addons::name::bestsellers"
+msgid "Bestsellers & On-Sale Products"
+msgstr "ผลิตภัณฑ์ที่ขายดีและลดราคา"
+
+msgctxt "Addons::description::bestsellers"
+msgid "Collects best selling & on sale product data and adds block fillings to show such products"
+msgstr "รวบรวมสินค้าขายดีที่สุด และข้อมูลตัวสินค้าที่ลดราคา"
+
+msgctxt "Languages::sort_by_bestsellers_asc"
+msgid "Sort by Bestselling: Low to High"
+msgstr "ขายดีจัดเรียง: ต่ำไปสูง"
+
+msgctxt "Languages::sort_by_bestsellers_desc"
+msgid "Sort by Bestselling"
+msgstr "เรียงลำดับ สินค้าที่ขายดี"
+
+msgctxt "Languages::sort_by_on_sale_asc"
+msgid "Sort by discount: Low to High"
+msgstr "เรียงตามส่วนลด: ต่ำไปสูง"
+
+msgctxt "Languages::sort_by_on_sale_desc"
+msgid "Sort by discount: High to Low"
+msgstr "เรียงตามส่วนลด: สูงไปต่ำ"
+
+msgctxt "Languages::sales_amount"
+msgid "Sales amount"
+msgstr "ยอดขาย"
+
+msgctxt "Languages::bestselling"
+msgid "Bestselling"
+msgstr "ขายดี"
+
+msgctxt "Languages::on_sale"
+msgid "On sale"
+msgstr "ลดราคา"
+
+msgctxt "Languages::similar"
+msgid "Similar"
+msgstr "คล้ายกัน"
+
+msgctxt "Languages::percent_range"
+msgid "Price range (in % of the main product's price)"
+msgstr "ช่วงราคา (เป็น%ของราคาของผลิตภัณฑ์หลัก)"
+
+msgctxt "Languages::similar_category"
+msgid "Of the same category"
+msgstr "ประเภทเดียวกัน"
+
+msgctxt "Languages::similar_subcats"
+msgid "Consider subcategories"
+msgstr "พิจารณาประเภทย่อย"
+
+msgctxt "Languages::similar_in_stock"
+msgid "Only \"in stock\" products"
+msgstr "เฉพาะในสต็อก\"ผลิตภัณฑ์"
+
+msgctxt "Languages::final_sale"
+msgid "Final sale"
+msgstr "ลดครั้งสุดท้าย"
+
+msgctxt "SettingsSections::bestsellers::general"
+msgid "General"
+msgstr "ทั่วไป"
+
+msgctxt "SettingsSections::bestsellers::newest"
+msgid "Newest"
+msgstr "ใหม่ล่าสุด"
+
+msgctxt "SettingsOptions::bestsellers::final_sale_from"
+msgid "Minimum final sale discount (%)"
+msgstr "ลดครั้งสุดท้ายที่ต่ำสุด (%)"
+
+msgctxt "SettingsOptions::bestsellers::sales_amount_from"
+msgid "Minimum sales amount to define bestsellers"
+msgstr "ยอดขายต่ำสุดที่กำหนดขายดี"
+
+msgctxt "SettingsOptions::bestsellers::period"
+msgid "Period"
+msgstr "รอบระยะเวลา"
+
+msgctxt "SettingsOptions::bestsellers::last_days"
+msgid "Last days"
+msgstr "วันสุดท้าย"
+
+msgctxt "SettingsVariants::bestsellers::period::all"
+msgid "All days"
+msgstr "ทุกวัน"
+
+msgctxt "SettingsVariants::bestsellers::period::today"
+msgid "Today"
+msgstr "วันนี้"
+
+msgctxt "SettingsVariants::bestsellers::period::last_days"
+msgid "Last days"
+msgstr "วันสุดท้าย"
+

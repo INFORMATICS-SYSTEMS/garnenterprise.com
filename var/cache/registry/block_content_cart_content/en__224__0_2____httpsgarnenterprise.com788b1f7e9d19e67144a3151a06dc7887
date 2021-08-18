@@ -1,0 +1,46 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:2034:"                        <div class="ut2-top-cart-content ">
+                
+    <div class="ty-dropdown-box" id="cart_status_732">
+        <div id="sw_dropdown_732" class="ty-dropdown-box__title cm-combination">
+        <a href="https://garnenterprise.com/cart/" class="ac-title ty-hand">
+            
+                                    <i class="ut2-icon-outline-cart empty"><span class="ty-minicart-count ty-hand empty">0</span></i><span>Cart<i class="ut2-icon-outline-expand_more"></i></span>
+                            
+
+        </a>
+        </div>
+        <div id="dropdown_732" class="cm-popup-box ty-dropdown-box__content ty-dropdown-box__content--cart hidden">
+            
+                <div class="cm-cart-content cm-cart-content-thumb cm-cart-content-delete">
+                        <div class="ty-cart-items">
+                                                            <div class="ty-cart-items__empty ty-center">Cart is empty</div>
+                                                        
+                            
+                                                        
+
+                            
+                        </div>
+
+                                            <div class="cm-cart-buttons ty-cart-content__buttons buttons-container hidden">
+                            <div class="ty-float-left">
+                                <a href="https://garnenterprise.com/cart/" rel="nofollow" class="ty-btn ty-btn__secondary">View cart</a>
+                            </div>
+                                                            <div class="ty-float-right">
+                                                
+ 
+
+    <a href="https://garnenterprise.com/checkout/"  class="ty-btn ty-btn__primary " ><i class="ty-icon-ok"></i><span>Checkout</span></a>
+
+
+                                </div>
+                                                    </div>
+                    
+                </div>
+            
+
+        </div>
+    <!--cart_status_732--></div>
+
+
+                    </div>
+            ";}s:6:"expiry";i:0;}

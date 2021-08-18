@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Thai\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: th\n"
+"X-Crowdin-File: /head/addons/customers_also_bought.po\n"
+"X-Crowdin-File-ID: 113\n"
+"PO-Revision-Date: 2021-08-06 12:02\n"
+
+msgctxt "Addons::name::customers_also_bought"
+msgid "Customers also bought"
+msgstr "ลูกค้าเคยซื้อ"
+
+msgctxt "Addons::description::customers_also_bought"
+msgid "Makes it possible to create a special block for the products often purchased along with the current one"
+msgstr "ทำให้สามารถสร้างบล็อกพิเศษสำหรับผลิตภัณฑ์มักจะซื้อพร้อมกับปัจจุบัน"
+

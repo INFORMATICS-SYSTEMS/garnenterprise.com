@@ -1,0 +1,1035 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:2104:"<script>
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_149_611cbab2b1fdc');
+
+        if (elm.length) {
+            $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+            var item = 5,
+                itemsDesktop = 5,
+                itemsDesktopSmall = 4;
+                itemsTablet = 4;
+                itemsTabletSmall = 2;
+                itemsMobile = 1;
+
+            if (item > 3) {
+                itemsDesktop = item;
+                itemsDesktopSmall = item - 1;
+                itemsTablet = item - 2;
+            } else if (item == 1) {
+                itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+            } else {
+                itemsDesktop = item;
+                itemsDesktopSmall = itemsTablet = item - 1;
+            }
+
+            var desktop = [1199, itemsDesktop],
+                desktopSmall = [1023, itemsDesktopSmall],
+                tablet = [767, itemsTablet],
+                tabletSmall = [479, itemsTabletSmall];
+                mobile = [319, itemsMobile];
+
+            
+            elm.owlCarousel({
+                direction: 'ltr',
+				items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsTabletSmall: tabletSmall,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['<i class="ty-icon-left-open-thin"></i>', '<i class="ty-icon-right-open-thin"></i>'],
+                                pagination: false,
+
+                afterUpdate: function(){
+                    fn_abt__ut2_calc_cell(elm);
+                },
+
+                            });
+                    }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:38580:"                    
+
+
+    
+            
+
+
+
+
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="scroll_list_149_611cbab2b1fdc" class="owl-carousel ty-scroller-list grid-list no-buttons ut2-scroller-advanced">
+    <div class="ut2-gl__item">
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://garnenterprise.com/" method="post" name="product_form_149000205" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*,abt__ut2_wishlist_count" />
+<input type="hidden" name="redirect_url" value="index.php?store_access_key=33b6cd5582673cbf7f335fafc022e9e1" />
+<input type="hidden" name="product_data[205][product_id]" value="205" />
+<div class="ut2-gl__body"><div class="ut2-gl__image " style="height: 270px"><a href="https://garnenterprise.com/computers/networking/dir-657-hd-media-router-1000/">            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/270/270/detailed/0/DIR-657_front.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/540/540/detailed/0/DIR-657_front.jpg 2x" width="270" height="270" />
+
+</a>                                
+            
+    <div class="ut2-gl__buttons" id="ut2_list_buttons_205_149_611cbab2b1fdc_blocks_products_products_scroller_advanced">
+<a class="
+	ut2-add-to-wish 		 cm-submit	 cm-tooltip"
+
+     title="Add to wishlist"     id="button_wishlist_149000205"     data-ca-dispatch="dispatch[wishlist.add..205]"    >
+    <i class="ut2-icon-baseline-favorite"></i>    </a>                
+                                                            
+        <a	class="
+	ut2-add-to-compare cm-ajax cm-ajax-full-render             cm-tooltip"
+
+                 title="เพิ่มรายการเปรียบเทียบ"                              data-ca-target-id="comparison_list,account_info*,abt__ut2_compared_products"
+                 href="https://garnenterprise.com/index.php?dispatch=product_features.add_product&amp;product_id=205&amp;redirect_url=index.php%3Fstore_access_key%3D33b6cd5582673cbf7f335fafc022e9e1">
+
+            <i class="ut2-icon-baseline-equalizer"></i>                    </a>
+    <!--ut2_list_buttons_205_149_611cbab2b1fdc_blocks_products_products_scroller_advanced--></div></div><div class="ut2-gl__rating ut2-rating-stars">
+
+
+<div class="ty-product-review-reviews-stars" data-ca-product-review-reviews-stars-full="0"></div></div>
+    <div class="ut2-gl__name">
+            <a href="https://garnenterprise.com/computers/networking/dir-657-hd-media-router-1000/" class="product-title" title="DIR-657 HD Media Router 1000" >DIR-657 HD Media Router 1000</a>    
+
+</div><div class="ut2-gl__amount">
+
+
+</div><div class="ut2-gl__price	pr-col" style="min-height: 37px;"><div>            <span class="cm-reload-149000205" id="old_price_update_149000205">
+            <input type="hidden" name="appearance[show_old_price]" value="1" />
+            
+                        
+
+        <!--old_price_update_149000205--></span>
+        <span class="cm-reload-149000205 ty-price-update" id="price_update_149000205">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_149000205"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_149000205" class="ty-price-num">149.99</span></bdi></span>
+                            
+
+                        <!--price_update_149000205--></span>
+</div><div>        </div></div></div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5ac66104c59e5eceff9168588cac4f47" /></form>
+</div>
+<div class="ut2-gl__item">
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://garnenterprise.com/" method="post" name="product_form_149000207" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*,abt__ut2_wishlist_count" />
+<input type="hidden" name="redirect_url" value="index.php?store_access_key=33b6cd5582673cbf7f335fafc022e9e1" />
+<input type="hidden" name="product_data[207][product_id]" value="207" />
+<div class="ut2-gl__body"><div class="ut2-gl__image " style="height: 270px"><a href="https://garnenterprise.com/computers/networking/asus-usb-n53/">            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/270/270/detailed/0/P_500.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/540/540/detailed/0/P_500.jpg 2x" width="270" height="270" />
+
+</a>                                
+            
+    <div class="ut2-gl__buttons" id="ut2_list_buttons_207_149_611cbab2b1fdc_blocks_products_products_scroller_advanced">
+<a class="
+	ut2-add-to-wish 		 cm-submit	 cm-tooltip"
+
+     title="Add to wishlist"     id="button_wishlist_149000207"     data-ca-dispatch="dispatch[wishlist.add..207]"    >
+    <i class="ut2-icon-baseline-favorite"></i>    </a>                
+                                                            
+        <a	class="
+	ut2-add-to-compare cm-ajax cm-ajax-full-render             cm-tooltip"
+
+                 title="เพิ่มรายการเปรียบเทียบ"                              data-ca-target-id="comparison_list,account_info*,abt__ut2_compared_products"
+                 href="https://garnenterprise.com/index.php?dispatch=product_features.add_product&amp;product_id=207&amp;redirect_url=index.php%3Fstore_access_key%3D33b6cd5582673cbf7f335fafc022e9e1">
+
+            <i class="ut2-icon-baseline-equalizer"></i>                    </a>
+    <!--ut2_list_buttons_207_149_611cbab2b1fdc_blocks_products_products_scroller_advanced--></div></div><div class="ut2-gl__rating ut2-rating-stars">
+
+
+<div class="ty-product-review-reviews-stars" data-ca-product-review-reviews-stars-full="0"></div></div>
+    <div class="ut2-gl__name">
+            <a href="https://garnenterprise.com/computers/networking/asus-usb-n53/" class="product-title" title="Asus USB-N53" >Asus USB-N53</a>    
+
+</div><div class="ut2-gl__amount">
+
+
+</div><div class="ut2-gl__price	pr-col" style="min-height: 37px;"><div>            <span class="cm-reload-149000207" id="old_price_update_149000207">
+            <input type="hidden" name="appearance[show_old_price]" value="1" />
+            
+                        
+
+        <!--old_price_update_149000207--></span>
+        <span class="cm-reload-149000207 ty-price-update" id="price_update_149000207">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_149000207"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_149000207" class="ty-price-num">42.00</span></bdi></span>
+                            
+
+                        <!--price_update_149000207--></span>
+</div><div>        </div></div></div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5ac66104c59e5eceff9168588cac4f47" /></form>
+</div>
+<div class="ut2-gl__item">
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://garnenterprise.com/" method="post" name="product_form_149000208" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*,abt__ut2_wishlist_count" />
+<input type="hidden" name="redirect_url" value="index.php?store_access_key=33b6cd5582673cbf7f335fafc022e9e1" />
+<input type="hidden" name="product_data[208][product_id]" value="208" />
+<div class="ut2-gl__body"><div class="ut2-gl__image " style="height: 270px"><a href="https://garnenterprise.com/computers/networking/h.264-megapixel-surveillance-camera-tl-sc3430/">            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/270/270/detailed/0/TL-SC3430-01.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/540/540/detailed/0/TL-SC3430-01.jpg 2x" width="270" height="270" />
+
+</a>                                
+            
+    <div class="ut2-gl__buttons" id="ut2_list_buttons_208_149_611cbab2b1fdc_blocks_products_products_scroller_advanced">
+<a class="
+	ut2-add-to-wish 		 cm-submit	 cm-tooltip"
+
+     title="Add to wishlist"     id="button_wishlist_149000208"     data-ca-dispatch="dispatch[wishlist.add..208]"    >
+    <i class="ut2-icon-baseline-favorite"></i>    </a>                
+                                                            
+        <a	class="
+	ut2-add-to-compare cm-ajax cm-ajax-full-render             cm-tooltip"
+
+                 title="เพิ่มรายการเปรียบเทียบ"                              data-ca-target-id="comparison_list,account_info*,abt__ut2_compared_products"
+                 href="https://garnenterprise.com/index.php?dispatch=product_features.add_product&amp;product_id=208&amp;redirect_url=index.php%3Fstore_access_key%3D33b6cd5582673cbf7f335fafc022e9e1">
+
+            <i class="ut2-icon-baseline-equalizer"></i>                    </a>
+    <!--ut2_list_buttons_208_149_611cbab2b1fdc_blocks_products_products_scroller_advanced--></div></div><div class="ut2-gl__rating ut2-rating-stars">
+
+
+<div class="ty-product-review-reviews-stars" data-ca-product-review-reviews-stars-full="0"></div></div>
+    <div class="ut2-gl__name">
+            <a href="https://garnenterprise.com/computers/networking/h.264-megapixel-surveillance-camera-tl-sc3430/" class="product-title" title="H.264 Megapixel Surveillance Camera TL-SC3430" >H.264 Megapixel Surveillance Camera TL-SC3430</a>    
+
+</div><div class="ut2-gl__amount">
+
+
+</div><div class="ut2-gl__price	pr-col" style="min-height: 37px;"><div>            <span class="cm-reload-149000208" id="old_price_update_149000208">
+            <input type="hidden" name="appearance[show_old_price]" value="1" />
+            
+                        
+
+        <!--old_price_update_149000208--></span>
+        <span class="cm-reload-149000208 ty-price-update" id="price_update_149000208">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_149000208"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_149000208" class="ty-price-num">82.94</span></bdi></span>
+                            
+
+                        <!--price_update_149000208--></span>
+</div><div>        </div></div></div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5ac66104c59e5eceff9168588cac4f47" /></form>
+</div>
+<div class="ut2-gl__item">
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://garnenterprise.com/" method="post" name="product_form_149000214" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*,abt__ut2_wishlist_count" />
+<input type="hidden" name="redirect_url" value="index.php?store_access_key=33b6cd5582673cbf7f335fafc022e9e1" />
+<input type="hidden" name="product_data[214][product_id]" value="214" />
+<div class="ut2-gl__body"><div class="ut2-gl__image " style="height: 270px"><a href="https://garnenterprise.com/computers/desktops/asus-cp6130/">            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/270/270/detailed/0/P_50013287768924f3386bc5fe80.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/540/540/detailed/0/P_50013287768924f3386bc5fe80.jpg 2x" width="270" height="270" />
+
+</a>                                
+            
+    <div class="ut2-gl__buttons" id="ut2_list_buttons_214_149_611cbab2b1fdc_blocks_products_products_scroller_advanced">
+<a class="
+	ut2-add-to-wish 		 cm-submit	 cm-tooltip"
+
+     title="Add to wishlist"     id="button_wishlist_149000214"     data-ca-dispatch="dispatch[wishlist.add..214]"    >
+    <i class="ut2-icon-baseline-favorite"></i>    </a>                
+                                                            
+        <a	class="
+	ut2-add-to-compare cm-ajax cm-ajax-full-render             cm-tooltip"
+
+                 title="เพิ่มรายการเปรียบเทียบ"                              data-ca-target-id="comparison_list,account_info*,abt__ut2_compared_products"
+                 href="https://garnenterprise.com/index.php?dispatch=product_features.add_product&amp;product_id=214&amp;redirect_url=index.php%3Fstore_access_key%3D33b6cd5582673cbf7f335fafc022e9e1">
+
+            <i class="ut2-icon-baseline-equalizer"></i>                    </a>
+    <!--ut2_list_buttons_214_149_611cbab2b1fdc_blocks_products_products_scroller_advanced--></div></div><div class="ut2-gl__rating ut2-rating-stars">
+
+
+<div class="ty-product-review-reviews-stars" data-ca-product-review-reviews-stars-full="0"></div></div>
+    <div class="ut2-gl__name">
+            <a href="https://garnenterprise.com/computers/desktops/asus-cp6130/" class="product-title" title="ASUS CP6130" >ASUS CP6130</a>    
+
+</div><div class="ut2-gl__amount">
+
+
+</div><div class="ut2-gl__price	pr-col" style="min-height: 37px;"><div>            <span class="cm-reload-149000214" id="old_price_update_149000214">
+            <input type="hidden" name="appearance[show_old_price]" value="1" />
+            
+                        
+
+        <!--old_price_update_149000214--></span>
+        <span class="cm-reload-149000214 ty-price-update" id="price_update_149000214">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_149000214"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_149000214" class="ty-price-num">972.00</span></bdi></span>
+                            
+
+                        <!--price_update_149000214--></span>
+</div><div>        </div></div></div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5ac66104c59e5eceff9168588cac4f47" /></form>
+</div>
+<div class="ut2-gl__item">
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://garnenterprise.com/" method="post" name="product_form_149000217" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*,abt__ut2_wishlist_count" />
+<input type="hidden" name="redirect_url" value="index.php?store_access_key=33b6cd5582673cbf7f335fafc022e9e1" />
+<input type="hidden" name="product_data[217][product_id]" value="217" />
+<div class="ut2-gl__body"><div class="ut2-gl__image " style="height: 270px"><a href="https://garnenterprise.com/computers/desktops/asus-cp6230/">            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/270/270/detailed/0/P_50013287772614f33882d85395.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/540/540/detailed/0/P_50013287772614f33882d85395.jpg 2x" width="270" height="270" />
+
+</a>                                
+            
+    <div class="ut2-gl__buttons" id="ut2_list_buttons_217_149_611cbab2b1fdc_blocks_products_products_scroller_advanced">
+<a class="
+	ut2-add-to-wish 		 cm-submit	 cm-tooltip"
+
+     title="Add to wishlist"     id="button_wishlist_149000217"     data-ca-dispatch="dispatch[wishlist.add..217]"    >
+    <i class="ut2-icon-baseline-favorite"></i>    </a>                
+                                                            
+        <a	class="
+	ut2-add-to-compare cm-ajax cm-ajax-full-render             cm-tooltip"
+
+                 title="เพิ่มรายการเปรียบเทียบ"                              data-ca-target-id="comparison_list,account_info*,abt__ut2_compared_products"
+                 href="https://garnenterprise.com/index.php?dispatch=product_features.add_product&amp;product_id=217&amp;redirect_url=index.php%3Fstore_access_key%3D33b6cd5582673cbf7f335fafc022e9e1">
+
+            <i class="ut2-icon-baseline-equalizer"></i>                    </a>
+    <!--ut2_list_buttons_217_149_611cbab2b1fdc_blocks_products_products_scroller_advanced--></div></div><div class="ut2-gl__rating ut2-rating-stars">
+
+
+<div class="ty-product-review-reviews-stars" data-ca-product-review-reviews-stars-full="0"></div></div>
+    <div class="ut2-gl__name">
+            <a href="https://garnenterprise.com/computers/desktops/asus-cp6230/" class="product-title" title="ASUS CP6230" >ASUS CP6230</a>    
+
+</div><div class="ut2-gl__amount">
+
+
+</div><div class="ut2-gl__price	pr-col" style="min-height: 37px;"><div>            <span class="cm-reload-149000217" id="old_price_update_149000217">
+            <input type="hidden" name="appearance[show_old_price]" value="1" />
+            
+                        
+
+        <!--old_price_update_149000217--></span>
+        <span class="cm-reload-149000217 ty-price-update" id="price_update_149000217">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_149000217"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_149000217" class="ty-price-num">610.99</span></bdi></span>
+                            
+
+                        <!--price_update_149000217--></span>
+</div><div>        </div></div></div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5ac66104c59e5eceff9168588cac4f47" /></form>
+</div>
+<div class="ut2-gl__item">
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://garnenterprise.com/" method="post" name="product_form_149000218" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*,abt__ut2_wishlist_count" />
+<input type="hidden" name="redirect_url" value="index.php?store_access_key=33b6cd5582673cbf7f335fafc022e9e1" />
+<input type="hidden" name="product_data[218][product_id]" value="218" />
+<div class="ut2-gl__body"><div class="ut2-gl__image " style="height: 270px"><a href="https://garnenterprise.com/computers/desktops/asus-essentio-cp1130/">            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/270/270/detailed/0/P_50013287774434f3388e3b9edd.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/540/540/detailed/0/P_50013287774434f3388e3b9edd.jpg 2x" width="270" height="270" />
+
+</a>                                
+            
+    <div class="ut2-gl__buttons" id="ut2_list_buttons_218_149_611cbab2b1fdc_blocks_products_products_scroller_advanced">
+<a class="
+	ut2-add-to-wish 		 cm-submit	 cm-tooltip"
+
+     title="Add to wishlist"     id="button_wishlist_149000218"     data-ca-dispatch="dispatch[wishlist.add..218]"    >
+    <i class="ut2-icon-baseline-favorite"></i>    </a>                
+                                                            
+        <a	class="
+	ut2-add-to-compare cm-ajax cm-ajax-full-render             cm-tooltip"
+
+                 title="เพิ่มรายการเปรียบเทียบ"                              data-ca-target-id="comparison_list,account_info*,abt__ut2_compared_products"
+                 href="https://garnenterprise.com/index.php?dispatch=product_features.add_product&amp;product_id=218&amp;redirect_url=index.php%3Fstore_access_key%3D33b6cd5582673cbf7f335fafc022e9e1">
+
+            <i class="ut2-icon-baseline-equalizer"></i>                    </a>
+    <!--ut2_list_buttons_218_149_611cbab2b1fdc_blocks_products_products_scroller_advanced--></div></div><div class="ut2-gl__rating ut2-rating-stars">
+
+
+<div class="ty-product-review-reviews-stars" data-ca-product-review-reviews-stars-full="0"></div></div>
+    <div class="ut2-gl__name">
+            <a href="https://garnenterprise.com/computers/desktops/asus-essentio-cp1130/" class="product-title" title="ASUS Essentio CP1130" >ASUS Essentio CP1130</a>    
+
+</div><div class="ut2-gl__amount">
+
+
+</div><div class="ut2-gl__price	pr-col" style="min-height: 37px;"><div>            <span class="cm-reload-149000218" id="old_price_update_149000218">
+            <input type="hidden" name="appearance[show_old_price]" value="1" />
+            
+                        
+
+        <!--old_price_update_149000218--></span>
+        <span class="cm-reload-149000218 ty-price-update" id="price_update_149000218">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_149000218"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_149000218" class="ty-price-num">459.99</span></bdi></span>
+                            
+
+                        <!--price_update_149000218--></span>
+</div><div>        </div></div></div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5ac66104c59e5eceff9168588cac4f47" /></form>
+</div>
+<div class="ut2-gl__item">
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://garnenterprise.com/" method="post" name="product_form_149000227" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*,abt__ut2_wishlist_count" />
+<input type="hidden" name="redirect_url" value="index.php?store_access_key=33b6cd5582673cbf7f335fafc022e9e1" />
+<input type="hidden" name="product_data[227][product_id]" value="227" />
+<div class="ut2-gl__body"><div class="ut2-gl__image " style="height: 270px"><a href="https://garnenterprise.com/computers/monitors/acer-3d-series-hn274h-bmiiid/">            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/270/270/detailed/0/HN274H_350x250.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/540/540/detailed/0/HN274H_350x250.jpg 2x" width="270" height="270" />
+
+</a>                                
+            
+    <div class="ut2-gl__buttons" id="ut2_list_buttons_227_149_611cbab2b1fdc_blocks_products_products_scroller_advanced">
+<a class="
+	ut2-add-to-wish 		 cm-submit	 cm-tooltip"
+
+     title="Add to wishlist"     id="button_wishlist_149000227"     data-ca-dispatch="dispatch[wishlist.add..227]"    >
+    <i class="ut2-icon-baseline-favorite"></i>    </a>                
+                                                            
+        <a	class="
+	ut2-add-to-compare cm-ajax cm-ajax-full-render             cm-tooltip"
+
+                 title="เพิ่มรายการเปรียบเทียบ"                              data-ca-target-id="comparison_list,account_info*,abt__ut2_compared_products"
+                 href="https://garnenterprise.com/index.php?dispatch=product_features.add_product&amp;product_id=227&amp;redirect_url=index.php%3Fstore_access_key%3D33b6cd5582673cbf7f335fafc022e9e1">
+
+            <i class="ut2-icon-baseline-equalizer"></i>                    </a>
+    <!--ut2_list_buttons_227_149_611cbab2b1fdc_blocks_products_products_scroller_advanced--></div></div><div class="ut2-gl__rating ut2-rating-stars">
+
+
+<div class="ty-product-review-reviews-stars" data-ca-product-review-reviews-stars-full="0"></div></div>
+    <div class="ut2-gl__name">
+            <a href="https://garnenterprise.com/computers/monitors/acer-3d-series-hn274h-bmiiid/" class="product-title" title="Acer 3D Series HN274H bmiiid" >Acer 3D Series HN274H bmiiid</a>    
+
+</div><div class="ut2-gl__amount">
+
+
+</div><div class="ut2-gl__price	pr-col" style="min-height: 37px;"><div>            <span class="cm-reload-149000227" id="old_price_update_149000227">
+            <input type="hidden" name="appearance[show_old_price]" value="1" />
+            
+                        
+
+        <!--old_price_update_149000227--></span>
+        <span class="cm-reload-149000227 ty-price-update" id="price_update_149000227">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_149000227"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_149000227" class="ty-price-num">699.00</span></bdi></span>
+                            
+
+                        <!--price_update_149000227--></span>
+</div><div>        </div></div></div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5ac66104c59e5eceff9168588cac4f47" /></form>
+</div>
+<div class="ut2-gl__item">
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://garnenterprise.com/" method="post" name="product_form_149000229" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*,abt__ut2_wishlist_count" />
+<input type="hidden" name="redirect_url" value="index.php?store_access_key=33b6cd5582673cbf7f335fafc022e9e1" />
+<input type="hidden" name="product_data[229][product_id]" value="229" />
+<div class="ut2-gl__body"><div class="ut2-gl__image " style="height: 270px"><a href="https://garnenterprise.com/computers/monitors/hp-2711x-27-led-monitor/">            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/270/270/detailed/0/xp600aa_300.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/540/540/detailed/0/xp600aa_300.jpg 2x" width="270" height="270" />
+
+</a>                                
+            
+    <div class="ut2-gl__buttons" id="ut2_list_buttons_229_149_611cbab2b1fdc_blocks_products_products_scroller_advanced">
+<a class="
+	ut2-add-to-wish 		 cm-submit	 cm-tooltip"
+
+     title="Add to wishlist"     id="button_wishlist_149000229"     data-ca-dispatch="dispatch[wishlist.add..229]"    >
+    <i class="ut2-icon-baseline-favorite"></i>    </a>                
+                                                            
+        <a	class="
+	ut2-add-to-compare cm-ajax cm-ajax-full-render             cm-tooltip"
+
+                 title="เพิ่มรายการเปรียบเทียบ"                              data-ca-target-id="comparison_list,account_info*,abt__ut2_compared_products"
+                 href="https://garnenterprise.com/index.php?dispatch=product_features.add_product&amp;product_id=229&amp;redirect_url=index.php%3Fstore_access_key%3D33b6cd5582673cbf7f335fafc022e9e1">
+
+            <i class="ut2-icon-baseline-equalizer"></i>                    </a>
+    <!--ut2_list_buttons_229_149_611cbab2b1fdc_blocks_products_products_scroller_advanced--></div></div><div class="ut2-gl__rating ut2-rating-stars">
+
+
+<div class="ty-product-review-reviews-stars" data-ca-product-review-reviews-stars-full="0"></div></div>
+    <div class="ut2-gl__name">
+            <a href="https://garnenterprise.com/computers/monitors/hp-2711x-27-led-monitor/" class="product-title" title="HP 2711x 27&quot; LED Monitor" >HP 2711x 27" LED Monitor</a>    
+
+</div><div class="ut2-gl__amount">
+
+
+</div><div class="ut2-gl__price	pr-col" style="min-height: 37px;"><div>            <span class="cm-reload-149000229" id="old_price_update_149000229">
+            <input type="hidden" name="appearance[show_old_price]" value="1" />
+            
+                        
+
+        <!--old_price_update_149000229--></span>
+        <span class="cm-reload-149000229 ty-price-update" id="price_update_149000229">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_149000229"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_149000229" class="ty-price-num">299.99</span></bdi></span>
+                            
+
+                        <!--price_update_149000229--></span>
+</div><div>        </div></div></div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5ac66104c59e5eceff9168588cac4f47" /></form>
+</div>
+<div class="ut2-gl__item">
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://garnenterprise.com/" method="post" name="product_form_149000240" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*,abt__ut2_wishlist_count" />
+<input type="hidden" name="redirect_url" value="index.php?store_access_key=33b6cd5582673cbf7f335fafc022e9e1" />
+<input type="hidden" name="product_data[240][product_id]" value="240" />
+<div class="ut2-gl__body"><div class="ut2-gl__image " style="height: 270px"><a href="https://garnenterprise.com/computers/tablets/apple-ipad-with-retina-display-wi-fi-64gb-black/">            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/270/270/detailed/0/ipad-black-1.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/540/540/detailed/0/ipad-black-1.jpg 2x" width="270" height="270" />
+
+</a>                                
+            
+    <div class="ut2-gl__buttons" id="ut2_list_buttons_240_149_611cbab2b1fdc_blocks_products_products_scroller_advanced">
+<a class="
+	ut2-add-to-wish 		 cm-submit	 cm-tooltip"
+
+     title="Add to wishlist"     id="button_wishlist_149000240"     data-ca-dispatch="dispatch[wishlist.add..240]"    >
+    <i class="ut2-icon-baseline-favorite"></i>    </a>                
+                                                            
+        <a	class="
+	ut2-add-to-compare cm-ajax cm-ajax-full-render             cm-tooltip"
+
+                 title="เพิ่มรายการเปรียบเทียบ"                              data-ca-target-id="comparison_list,account_info*,abt__ut2_compared_products"
+                 href="https://garnenterprise.com/index.php?dispatch=product_features.add_product&amp;product_id=240&amp;redirect_url=index.php%3Fstore_access_key%3D33b6cd5582673cbf7f335fafc022e9e1">
+
+            <i class="ut2-icon-baseline-equalizer"></i>                    </a>
+    <!--ut2_list_buttons_240_149_611cbab2b1fdc_blocks_products_products_scroller_advanced--></div></div><div class="ut2-gl__rating ut2-rating-stars">
+
+
+<div class="ty-product-review-reviews-stars" data-ca-product-review-reviews-stars-full="0"></div></div>
+    <div class="ut2-gl__name">
+            <a href="https://garnenterprise.com/computers/tablets/apple-ipad-with-retina-display-wi-fi-64gb-black/" class="product-title" title="Apple® - iPad® with Retina® display Wi-Fi - 64GB - Black" >Apple® - iPad® with Retina® display Wi-Fi - 64GB - Black</a>    
+
+</div><div class="ut2-gl__amount">
+
+
+</div><div class="ut2-gl__price	pr-col" style="min-height: 37px;"><div>            <span class="cm-reload-149000240" id="old_price_update_149000240">
+            <input type="hidden" name="appearance[show_old_price]" value="1" />
+            
+                        
+
+        <!--old_price_update_149000240--></span>
+        <span class="cm-reload-149000240 ty-price-update" id="price_update_149000240">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_149000240"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_149000240" class="ty-price-num">499.00</span></bdi></span>
+                            
+
+                        <!--price_update_149000240--></span>
+</div><div>        </div></div></div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5ac66104c59e5eceff9168588cac4f47" /></form>
+</div>
+<div class="ut2-gl__item">
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://garnenterprise.com/" method="post" name="product_form_149000241" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*,abt__ut2_wishlist_count" />
+<input type="hidden" name="redirect_url" value="index.php?store_access_key=33b6cd5582673cbf7f335fafc022e9e1" />
+<input type="hidden" name="product_data[241][product_id]" value="241" />
+<div class="ut2-gl__body"><div class="ut2-gl__image " style="height: 270px"><a href="https://garnenterprise.com/computers/tablets/apple-ipad-with-retina-display-wi-fi-32gb-white/">            
+    
+    <img class="ty-pict   cm-image"   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://garnenterprise.com/images/thumbnails/270/270/detailed/0/ipad-white-1.jpg"  alt="" title="" data-srcset="https://garnenterprise.com/images/thumbnails/540/540/detailed/0/ipad-white-1.jpg 2x" width="270" height="270" />
+
+</a>                                
+            
+    <div class="ut2-gl__buttons" id="ut2_list_buttons_241_149_611cbab2b1fdc_blocks_products_products_scroller_advanced">
+<a class="
+	ut2-add-to-wish 		 cm-submit	 cm-tooltip"
+
+     title="Add to wishlist"     id="button_wishlist_149000241"     data-ca-dispatch="dispatch[wishlist.add..241]"    >
+    <i class="ut2-icon-baseline-favorite"></i>    </a>                
+                                                            
+        <a	class="
+	ut2-add-to-compare cm-ajax cm-ajax-full-render             cm-tooltip"
+
+                 title="เพิ่มรายการเปรียบเทียบ"                              data-ca-target-id="comparison_list,account_info*,abt__ut2_compared_products"
+                 href="https://garnenterprise.com/index.php?dispatch=product_features.add_product&amp;product_id=241&amp;redirect_url=index.php%3Fstore_access_key%3D33b6cd5582673cbf7f335fafc022e9e1">
+
+            <i class="ut2-icon-baseline-equalizer"></i>                    </a>
+    <!--ut2_list_buttons_241_149_611cbab2b1fdc_blocks_products_products_scroller_advanced--></div></div><div class="ut2-gl__rating ut2-rating-stars">
+
+
+<div class="cn-reviews">(3)</div>
+
+                                
+                                
+            <a class="ty-product-review-reviews-stars__link "
+            href="https://garnenterprise.com/computers/tablets/apple-ipad-with-retina-display-wi-fi-32gb-white/?selected_section=product_reviews#product_reviews"
+            title="The product is rated 5 out of 5 stars. Show review rating."
+        >
+            <div class="ty-product-review-reviews-stars
+                        "
+            data-ca-product-review-reviews-stars-rating="5"
+            data-ca-product-review-reviews-stars-full="5"
+            data-ca-product-review-reviews-stars-is-half=""
+                    ></div>
+            </a>
+    
+</div>
+    <div class="ut2-gl__name">
+            <a href="https://garnenterprise.com/computers/tablets/apple-ipad-with-retina-display-wi-fi-32gb-white/" class="product-title" title="Apple® - iPad® with Retina® display Wi-Fi - 32GB - White" >Apple® - iPad® with Retina® display Wi-Fi - 32GB - White</a>    
+
+</div><div class="ut2-gl__amount">
+
+
+</div><div class="ut2-gl__price	pr-col" style="min-height: 37px;"><div>            <span class="cm-reload-149000241" id="old_price_update_149000241">
+            <input type="hidden" name="appearance[show_old_price]" value="1" />
+            
+                        
+
+        <!--old_price_update_149000241--></span>
+        <span class="cm-reload-149000241 ty-price-update" id="price_update_149000241">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_149000241"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_149000241" class="ty-price-num">499.00</span></bdi></span>
+                            
+
+                        <!--price_update_149000241--></span>
+</div><div>        </div></div></div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5ac66104c59e5eceff9168588cac4f47" /></form>
+</div>
+</div>
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+            ";}s:6:"expiry";i:0;}

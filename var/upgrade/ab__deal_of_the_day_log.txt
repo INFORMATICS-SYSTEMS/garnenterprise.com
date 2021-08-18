@@ -1,0 +1,82 @@
+2021-08-07 09:35:42: Downloading "ab__deal_of_the_day" upgrade package
+2021-08-07 09:35:43: Upgrade package has been downloaded and ready to install
+
+
+################################################################################
+################################################################################
+2021-08-07 09:35:48: Starting installation of the "ab__deal_of_the_day" upgrade package
+2021-08-07 09:35:48: Upgrading version 3.5.1 to 3.5.2
+2021-08-07 09:35:48: Running as user "garnenterprise"
+2021-08-07 09:35:48: Storing entry point files permissions...
+2021-08-07 09:35:48: index.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:35:48: admin.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:35:48: api.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:35:48: vendor.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:35:48:  ==> 16872 (drwxr-x---)
+2021-08-07 09:35:48: Executing pre-upgrade validators
+2021-08-07 09:35:48: Found 1 validators at package
+2021-08-07 09:35:48: Executing "The minimum required version of the 'AB: Add-ons Manager' add-on is 2.4.0" validator
+2021-08-07 09:35:48: Executing "collisions" validator
+2021-08-07 09:35:48: Upgrade stopped: awaiting resolving "collisions" validator errors
+
+
+################################################################################
+################################################################################
+2021-08-07 09:35:53: Starting installation of the "ab__deal_of_the_day" upgrade package
+2021-08-07 09:35:53: Upgrading version 3.5.1 to 3.5.2
+2021-08-07 09:35:53: Running as user "garnenterprise"
+2021-08-07 09:35:53: Storing entry point files permissions...
+2021-08-07 09:35:53: index.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:35:53: admin.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:35:53: api.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:35:53: vendor.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:35:53:  ==> 16872 (drwxr-x---)
+2021-08-07 09:35:53: Executing pre-upgrade validators
+2021-08-07 09:35:53: Found 1 validators at package
+2021-08-07 09:35:53: Executing "The minimum required version of the 'AB: Add-ons Manager' add-on is 2.4.0" validator
+2021-08-07 09:35:53: Executing "collisions" validator
+2021-08-07 09:35:53: Executing "permissions" validator
+2021-08-07 09:35:53: Executing "restore" validator
+2021-08-07 09:35:53: Files and database backup skipped
+2021-08-07 09:35:53: Closing storefront
+2021-08-07 09:35:53: Sending upgrade information e-mail to: informatics.sys@gmail.com
+2021-08-07 09:35:53: E-mail was successfully sent
+2021-08-07 09:35:53: No migrations found at package
+2021-08-07 09:35:53: Copying package files
+2021-08-07 09:35:53: Deleting files removed at new version
+2021-08-07 09:35:53: Processing themes files
+2021-08-07 09:35:53: Installing languages using upgraded *.po files
+2021-08-07 09:35:53: Already installed languages: en
+2021-08-07 09:35:53: Languages to be installed: 
+2021-08-07 09:35:53: Installing "en" language... SKIPPED
+2021-08-07 09:35:53: Cleaning cache
+2021-08-07 09:35:53: Saving upgrade information to DB
+2021-08-07 09:35:53: Sending statistics
+2021-08-07 09:35:54: Deleting package contents
+2021-08-07 09:35:54: Restoring entry point files permissions...
+2021-08-07 09:35:54: index.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:35:54: ----------
+2021-08-07 09:35:54: Changing permissions of "/var/www/vhosts/garnenterprise.com/httpdocs/index.php" to 100644
+2021-08-07 09:35:54: Using chmod()... OK
+2021-08-07 09:35:54: ----------
+2021-08-07 09:35:54: admin.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:35:54: ----------
+2021-08-07 09:35:54: Changing permissions of "/var/www/vhosts/garnenterprise.com/httpdocs/admin.php" to 100644
+2021-08-07 09:35:54: Using chmod()... OK
+2021-08-07 09:35:54: ----------
+2021-08-07 09:35:54: api.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:35:54: ----------
+2021-08-07 09:35:54: Changing permissions of "/var/www/vhosts/garnenterprise.com/httpdocs/api.php" to 100644
+2021-08-07 09:35:54: Using chmod()... OK
+2021-08-07 09:35:54: ----------
+2021-08-07 09:35:54: vendor.php ==> 33188 (-rw-r--r--)
+2021-08-07 09:35:54: ----------
+2021-08-07 09:35:54: Changing permissions of "/var/www/vhosts/garnenterprise.com/httpdocs/vendor.php" to 100644
+2021-08-07 09:35:54: Using chmod()... OK
+2021-08-07 09:35:54: ----------
+2021-08-07 09:35:54:  ==> 16872 (drwxr-x---)
+2021-08-07 09:35:54: ----------
+2021-08-07 09:35:54: Changing permissions of "/var/www/vhosts/garnenterprise.com/httpdocs/" to 40750
+2021-08-07 09:35:54: Using chmod()... OK
+2021-08-07 09:35:54: ----------
+2021-08-07 09:35:54: Upgrade completed!

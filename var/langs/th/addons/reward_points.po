@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Thai\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: th\n"
+"X-Crowdin-File: /head/addons/reward_points.po\n"
+"X-Crowdin-File-ID: 135\n"
+"PO-Revision-Date: 2021-08-06 12:02\n"
+
+msgctxt "Addons::name::reward_points"
+msgid "Reward points"
+msgstr "คะแนนสะสม"
+
+msgctxt "Addons::description::reward_points"
+msgid "Lets customers earn and spend points for purchases"
+msgstr "ช่วยให้ลูกค้าได้รับ และใช้แต้มสำหรับการซื้อ"
+
+msgctxt "Languages::reward_points"
+msgid "Reward points"
+msgstr "คะแนนสะสม"
+
+msgctxt "Languages::reward_points_log"
+msgid "Reward points log"
+msgstr "ระบบคะแนนสะสม"
+
+msgctxt "Languages::reward_points_menu_description"
+msgid "Assign global reward points in your store."
+msgstr "กำหนดคะแนนสะสม ในร้านค้าของคุณ"
+
+msgctxt "Languages::promotion_cond_reward_points"
+msgid "Points on user account"
+msgstr "คะแนนบนบัญชีผู้ใช้"
+
+msgctxt "Languages::points"
+msgid "Points"
+msgstr "คะแนน"
+
+msgctxt "Languages::points_in_use"
+msgid "Points in use"
+msgstr "คะแนนในการใช้"
+
+msgctxt "Languages::points_in_use_lower"
+msgid "points in use"
+msgstr "คะแนนในการใช้"
+
+msgctxt "Languages::points_lower"
+msgid "points"
+msgstr "คะแนน"
+
+msgctxt "Languages::points_in_use_lowercase"
+msgid "[n] point in use|[n] points in use"
+msgstr "[n] คะแนนในการใช้ [n] คะแนนในการใช้"
+
+msgctxt "Languages::points_lowercase"
+msgid "[n] point|[n] points"
+msgstr "[n] คะแนน | คะแนน [n]"
+
+msgctxt "Languages::points_to_use"
+msgid "Points to use"
+msgstr "คะแนนที่จะใช้"
+
+msgctxt "Languages::point_payment"
+msgid "Point payment"
+msgstr "จุดชำระเงิน"
+
+msgctxt "Languages::point_price"
+msgid "Price in points"
+msgstr "ราคาในคะแนน"
+
+msgctxt "Languages::text_increase_points_in_use"
+msgid "The points used in the order were added to user account."
+msgstr "คะแนนที่ใช้ในใบสั่งถูกเพิ่มไปยังบัญชีผู้ใช้"
+
+msgctxt "Languages::text_points_used_in_order"
+msgid "Points were used in order"
+msgstr "คะแนนที่ถูกใช้ตามลำดับ"
+
+msgctxt "Languages::text_point_in_account"
+msgid "You have"
+msgstr "คุณมี"
+
+msgctxt "Languages::pay_by_points"
+msgid "Allow payment by points"
+msgstr "อนุญาตชำระเงินโดยใช้คะแนน"
+
+msgctxt "Languages::override_per"
+msgid "Override global PER"
+msgstr ""
+
+msgctxt "Languages::override_gc_points_brief"
+msgid "Override global/category points"
+msgstr "แทนที่คะแนนใช้งาน"
+
+msgctxt "Languages::text_points_exceed_points_on_account"
+msgid "The number of the points entered by you exceeds the number of points at your account."
+msgstr "จำนวนคะแนนที่คุณป้อนเกินกว่าจำนวนคะแนนในบัญชีของคุณ"
+
+msgctxt "Languages::text_points_exceed_points_that_can_be_applied"
+msgid "The number of points entered by you exceeds the number of points that can be applied to this order."
+msgstr "จำนวนคะแนนที่คุณป้อนเกินจำนวนจุดที่สามารถใช้กับใบสั่งนี้"
+
+msgctxt "Languages::text_points_cannot_applied_because_subtotal_redeemed"
+msgid "Points cannot be applied because the subtotal is completely redeemed."
+msgstr "ไม่สามารถใช้คะแนน เนื่องจากผลรวมย่อยทั้งหมดถูกแลก"
+
+msgctxt "Languages::text_cannot_apply_points_to_this_order_because_total"
+msgid "Unfortunately, you cannot apply points to this order, because the total cost is zero."
+msgstr "คุณไม่สามารถใช้คะแนนนี้สั่งซื้อ เนื่องจากต้นทุนรวมเป็นศูนย์"
+
+msgctxt "Languages::text_cannot_apply_points_to_this_order_because_user"
+msgid "Unfortunately, you cannot apply points to this order, because you do not have enough points at the account."
+msgstr "คุณไม่สามารถใช้คะแนนนี้สั่งซื้อ เนื่องจากคุณมีคะแนนไม่เพียงพอ"
+
+msgctxt "Languages::text_order_status_has_not_been_changed"
+msgid "The order status has not been changed, because the user did not have enough points."
+msgstr "สถานะของการสั่งซื้อไม่เปลี่ยนแปลง เพราะผู้ใช้มีคะแนนไม่เพียงพอ"
+
+msgctxt "Languages::price_in_points_increased"
+msgid "Price in points has been increased by"
+msgstr "ราคาในคะแนนที่เพิ่มขึ้นโดย"
+
+msgctxt "Languages::price_in_points_decreased"
+msgid "Price in points has been decreased by"
+msgstr "ราคาในคะแนนที่ลดลงโดย"
+
+msgctxt "Languages::earned_points"
+msgid "Points earned per product"
+msgstr "คะแนนที่ได้รับต่อผลิตภัณฑ์"
+
+msgctxt "Languages::override_g_points"
+msgid "Override global point value for all products in this category"
+msgstr "แทนค่าคะแนนทั่วโลกสำหรับผลิตภัณฑ์ทั้งหมดในหมวดนี้"
+
+msgctxt "Languages::amount_type"
+msgid "Amount type"
+msgstr "ชนิดจำนวน"
+
+msgctxt "Languages::maximum"
+msgid "Maximum"
+msgstr "สูงสุด"
+
+msgctxt "Languages::earned_point_modifier"
+msgid "Earned point modifier"
+msgstr "ปรับเปลี่ยนคะแนนได้"
+
+msgctxt "Languages::override_gc_points"
+msgid "Override global/category point value for this product"
+msgstr "แทนค่าคะแนนใช้งานสำหรับผลิตภัณฑ์นี้"
+
+msgctxt "Languages::view_user_points"
+msgid "View user points"
+msgstr "ดูคะแนนผู้ใช้งาน"
+
+msgctxt "Languages::log"
+msgid "Log"
+msgstr "รายการที่บันทึกไว้"
+
+msgctxt "Languages::subtract"
+msgid "Subtract"
+msgstr "ลบ"
+
+msgctxt "Languages::change_points"
+msgid "Change points"
+msgstr "เปลี่ยนแปลงคะแนน"
+
+msgctxt "Languages::add_subtract_points"
+msgid "Add & subtract points"
+msgstr "เพิ่ม และลบคะแนน"
+
+msgctxt "Languages::cleanup_log"
+msgid "Cleanup log"
+msgstr "ล้างข้อมูลที่บันทึก"
+
+msgctxt "Languages::we_would_like_to_inform"
+msgid "We would like to inform you that"
+msgstr "เราอยากแจ้งให้ทราบว่า"
+
+msgctxt "Languages::reward_points_subj_added_to"
+msgid "[n] point have been added to your account.|[n] points have been added to your account."
+msgstr "เพิ่มคะแนน [n] บัญชีของคุณ. | คะแนน [n] เพิ่มบัญชีของคุณ"
+
+msgctxt "Languages::reward_points_subj_subtracted_from"
+msgid "[n] point have been subtracted from your account.|[n] points have been subtracted from your account."
+msgstr "[n] หักคะแนนจากบัญชีของคุณ. | [n] หักคะแนนจากบัญชีของคุณ"
+
+msgctxt "Languages::privileges.manage_reward_points"
+msgid "Can edit"
+msgstr ""
+
+msgctxt "Languages::privilege_groups.reward_points"
+msgid "Reward points"
+msgstr ""
+
+msgctxt "SettingsSections::reward_points::general"
+msgid "General"
+msgstr "ทั่วไป"
+
+msgctxt "SettingsOptions::reward_points::point_rate"
+msgid "Points Exchange Rate (PER - the number of points equal to 1 conventional unit)"
+msgstr "ชี้อัตราแลกเปลี่ยนคะแนน (ต่อ - จำนวนจุดเท่ากับ 1 หน่วยทั่วไป)"
+
+msgctxt "SettingsOptions::reward_points::auto_price_in_points"
+msgid "\"Price in points\" is calculated automatically on PER basis"
+msgstr "\"ราคาในคะแนนที่\" มีคำนวณโดยอัตโนมัติในเกณฑ์"
+
+msgctxt "SettingsOptions::reward_points::price_in_points_with_discounts"
+msgid "\"Price in points\" is recalculated taking into account discounts"
+msgstr "\"ราคาในคะแนนที่\" จะถูกคำนวณเป็นส่วนลดในบัญชี"
+
+msgctxt "SettingsOptions::reward_points::points_with_discounts"
+msgid "\"Points\" is recalculated taking into account discounts"
+msgstr "\"คะแนน\" จะถูกคำนวณเป็นส่วนลดในบัญชี"
+
+msgctxt "SettingsOptions::reward_points::price_in_points_order_discount"
+msgid "\"Price in points\" is recalculated taking into account order discounts"
+msgstr "\"ราคาในคะแนนที่\" จะถูกคำนวณเป็นส่วนลดในบัญชี"
+
+msgctxt "SettingsOptions::reward_points::reward_points_order_discount"
+msgid "\"Points\" is recalculated taking into account order discounts"
+msgstr "\"คะแนน\" จะถูกคำนวณเป็นส่วนลดในบัญชี"
+
+msgctxt "SettingsOptions::reward_points::higher_level_extract"
+msgid "If the product and the product category do not have defined reward points but the higher level category has such reward points, extract data from it"
+msgstr "ถ้าสินค้าและประเภทสินค้าไม่มีคะแนนสะสมที่กำหนดไว้ แต่ประเภทระดับสูงได้คะแนนสะสมดังกล่าว ดึงข้อมูลจากมัน"
+
+msgctxt "SettingsOptions::reward_points::several_points_action"
+msgid "If several reward points can be applied, set"
+msgstr "ถ้าสามารถใช้คะแนนสะสมกับหลายรายการ"
+
+msgctxt "SettingsOptions::reward_points::consider_zero_values"
+msgid "Apply zero reward point values"
+msgstr "ใช้คะแนนทั้งหมดแลกของรางวัล"
+
+msgctxt "SettingsOptions::reward_points::log_per_page"
+msgid "Log lines per page"
+msgstr "บันทึกบรรทัดต่อหน้า"
+
+msgctxt "SettingsTooltips::reward_points::consider_zero_values"
+msgid "The reward points rules with the zero values should be considered"
+msgstr "ควรพิจารณากฎคะแนนรางวัลที่ มีค่าเป็นศูนย์"
+
+msgctxt "SettingsVariants::reward_points::several_points_action::minimal_absolute"
+msgid "Absolute minimal value"
+msgstr "ค่าต่ำสุดสัมบูรณ์"
+
+msgctxt "SettingsVariants::reward_points::several_points_action::minimal_percentage"
+msgid "Minimal percentage value"
+msgstr "ค่าเปอร์เซ็นต์ที่น้อยที่สุด"
+
+msgctxt "SettingsVariants::reward_points::several_points_action::maximal_absolute"
+msgid "Absolute maximal value"
+msgstr "ค่าสูงสุดสัมบูรณ์"
+
+msgctxt "SettingsVariants::reward_points::several_points_action::maximal_percentage"
+msgid "Maximal percentage value"
+msgstr "ค่าเปอร์เซ็นต์ที่มากที่สุด"
+
+msgctxt "Languages::email_template.reward_points_notification"
+msgid "Reward points"
+msgstr "คะแนนสะสม"
+
+msgctxt "Languages::grant_point"
+msgid "Grant reward points"
+msgstr "ให้คะแนนสะสม"
+

@@ -1,0 +1,93 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:868:"<script>
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var slider = context.find('#banner_slider_750');
+        if (slider.length) {
+            slider.owlCarousel({
+                direction: 'ltr',
+                items: 1,
+                singleItem: true,
+                slideSpeed: 400,
+                autoPlay: '7000',
+                afterMove: function(){
+                    slider.find('.ut2-a-video iframe').each(function(){
+                        $(this).get(0).contentWindow.postMessage('{ "event":"command","func":"' + 'pauseVideo' + '","args":"" }', '*');
+                    });
+                },
+                stopOnHover: true,
+                                    pagination: false
+                                                                            });
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:2751:"                        <div class="hidden-phone ">
+                
+    <div id="banner_slider_750" class="banners owl-carousel">
+                                
+                            <div class="ut2-banner ut2-settings-desktop ">
+
+    
+                    
+
+
+            <div class="ut2-a__bg-banner light"
+             style=" background-size:cover;margin:0;height:250px;" data-background-url="https://garnenterprise.com/images/abt__ut2/banners/all/8/22-abt__ut2_background_image-banner.jpg">
+
+            <div  data-id="25">
+                <div class="ut2-a__content valign-top align-left" style="height: 250px">
+                    
+                    <div class="ut2-a__description width-full">
+                        <div class="box" style="padding:20px; background-color: ">
+                            <div class="ut2-a__title                             weight-900" style="font-size: 22px
+                            ;                            ">AirPods,<br/>just listen</div>
+                        <div class="ut2-a__descr" style="
+	                        color: #666666;		                    					        font-size: 13px;">
+						    Performance you’ll want<br/>to hear
+						</div>
+
+						                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+</div>
+                        
+
+                                
+                            <div class="ut2-banner ut2-settings-desktop ">
+
+    
+                    
+
+
+        <a        href="https://garnenterprise.com/electronics/">
+                <div class="ut2-a__bg-banner light"
+             style=" background-size:cover;margin:0;height:250px;" data-background-url="https://garnenterprise.com/images/abt__ut2/banners/all/8/23-abt__ut2_background_image-banner.jpg">
+
+            <div  data-id="26">
+                <div class="ut2-a__content valign-top align-center" style="height: 250px">
+                    
+                    <div class="ut2-a__description width-full">
+                        <div class="box" style="padding:20px; background-color: ">
+                            <div class="ut2-a__title                             weight-900" style="font-size: 22px
+                            ;                            ">Meet the iPad Pro</div>
+                        <div class="ut2-a__descr" style="
+	                        color: #999999;		                    					        font-size: 13px;">
+						    It’s all new, all screen, and all powerful
+						</div>
+
+						                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+    </a>
+</div>
+                        
+
+            </div>
+
+<!-- Inline script moved to the bottom of the page -->
+
+                    </div>
+            ";}s:6:"expiry";i:0;}

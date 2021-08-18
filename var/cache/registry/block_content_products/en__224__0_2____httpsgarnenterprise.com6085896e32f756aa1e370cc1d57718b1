@@ -1,0 +1,59 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:2104:"<script>
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_137_611698b895577');
+
+        if (elm.length) {
+            $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+            var item = 6,
+                itemsDesktop = 5,
+                itemsDesktopSmall = 4;
+                itemsTablet = 4;
+                itemsTabletSmall = 2;
+                itemsMobile = 1;
+
+            if (item > 3) {
+                itemsDesktop = item;
+                itemsDesktopSmall = item - 1;
+                itemsTablet = item - 2;
+            } else if (item == 1) {
+                itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+            } else {
+                itemsDesktop = item;
+                itemsDesktopSmall = itemsTablet = item - 1;
+            }
+
+            var desktop = [1199, itemsDesktop],
+                desktopSmall = [1023, itemsDesktopSmall],
+                tablet = [767, itemsTablet],
+                tabletSmall = [479, itemsTabletSmall];
+                mobile = [319, itemsMobile];
+
+            
+            elm.owlCarousel({
+                direction: 'ltr',
+				items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsTabletSmall: tabletSmall,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['<i class="ty-icon-left-open-thin"></i>', '<i class="ty-icon-right-open-thin"></i>'],
+                                pagination: false,
+
+                afterUpdate: function(){
+                    fn_abt__ut2_calc_cell(elm);
+                },
+
+                            });
+                    }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:80:"<div id="content_abt__ut2_grid_tab_616_137_769_products_227"><span></span></div>";}s:6:"expiry";i:1628957239;}

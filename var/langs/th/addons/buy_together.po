@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Thai\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: th\n"
+"X-Crowdin-File: /head/addons/buy_together.po\n"
+"X-Crowdin-File-ID: 111\n"
+"PO-Revision-Date: 2021-08-06 12:02\n"
+
+msgctxt "Addons::name::buy_together"
+msgid "Buy together"
+msgstr "ซื้อรวมกัน"
+
+msgctxt "Addons::description::buy_together"
+msgid "Allows you to set up share discounts on certain product combinations"
+msgstr "ช่วยให้คุณสามารถตั้งค่า ส่วนลดผลิตภัณฑ์"
+
+msgctxt "Languages::buy_together"
+msgid "Buy together"
+msgstr "ซื้อรวมกัน"
+
+msgctxt "Languages::specify_options"
+msgid "Specify options"
+msgstr "ระบุตัวเลือก"
+
+msgctxt "Languages::total_list_price"
+msgid "Total list price"
+msgstr "รวมราคา"
+
+msgctxt "Languages::price_for_all"
+msgid "Price for all"
+msgstr "ราคาทั้งหมด"
+
+msgctxt "Languages::add_all_to_cart"
+msgid "Add all to cart"
+msgstr "เพิ่มสินค้าทั้งหมดลงในรถเข็น"
+
+msgctxt "Languages::editing_combination"
+msgid "Editing combination"
+msgstr "แก้ไขสินค้า"
+
+msgctxt "Languages::buy_together_calculation_information"
+msgid "Total price: [total_price], Discount: [discount], Combination price: [combination_price]"
+msgstr "ราคา: [total_price] ส่วนลด: [discount] ราคารวม: [combination_price]"
+
+msgctxt "Languages::display_in_promotions"
+msgid "Display in promotions"
+msgstr "แสดงในโปรโมชั่น"
+
+msgctxt "Languages::combination_products"
+msgid "Combination products"
+msgstr "ชุดผลิตภัณฑ์"
+
+msgctxt "Languages::share_discount"
+msgid "Share discount"
+msgstr "แบ่งปันส่วนลด"
+
+msgctxt "Languages::buy_together_is_not_compatible_with_configurator"
+msgid "[product_name] cannot be added to combination. Buy together is not compatible with the Product configurator add-on"
+msgstr "[product_name] ไม่สามารถเพิ่มชุด ซื้อกันไม่ได้กับ add-on ตัวจัดโครงแบบผลิตภัณฑ์"
+
+msgctxt "Languages::buy_together_is_not_compatible_with_recurring_billing"
+msgid "[product_name] cannot be added to combination. Buy together is not compatible with the Recurring billing add-on"
+msgstr "[product_name] ไม่สามารถเพิ่มชุด ซื้อกันไม่ได้กับ add-on เรียกเก็บเงินที่เกิดซ้ำ"
+
+msgctxt "Languages::buy_together_combination_cannot_be_added"
+msgid "Combination cannot be added to cart"
+msgstr "ไม่สามารถเพิ่มเข้าไปในรถเข็น"
+
+msgctxt "Languages::buy_together_product_was_removed"
+msgid "[product] did not have enough amount ([amount]) and was removed from the cart"
+msgstr "[product] ไม่มีจำนวนเพียงพอ ([amount]) และถูกเอาออกจากรถเข็น"
+
+msgctxt "Languages::buy_together_fill_the_mandatory_fields"
+msgid "Please specify product options before adding this product combination to the cart."
+msgstr "โปรดระบุตัวเลือกผลิตภัณฑ์ก่อนที่จะเพิ่มชุดผลิตภัณฑ์นี้ในรถเข็น"
+
+msgctxt "Languages::buy_together_info_message_for_mve"
+msgid "Only vendors can add product combinations. To add a combination, first <a class=\"buy-together-js-company-switcher\" data-ca-switcher-company-id=\"[company_id]\" data-ca-switcher-param-name=\"company_id\" data-ca-switcher-product-id=\"[product_id]\">log in as vendor</a>."
+msgstr ""
+
+msgctxt "Languages::buy_together_info_message"
+msgid "To add a combination, first <a class=\"buy-together-js-storefront-switcher\" data-ca-switcher-storefront-id=\"[storefront_id]\" data-ca-switcher-param-name=\"switch_company_id\" data-ca-switcher-product-id=\"[product_id]\">select the storefront</a>."
+msgstr ""
+
